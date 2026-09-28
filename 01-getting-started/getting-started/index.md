@@ -60,7 +60,7 @@ A **Constraint** is a rule the sketch has to follow, like "this line is horizont
 A **Feature** is one modeling step, like an Extrude, a Hole or a Fillet. Each modeling Tool adds a Feature, and each Feature remembers its settings, so you can change them later.
 
 1. Drag with one finger to turn the view so you look at the sketch from an angle.
-2. In the sidebar, tap **Extrude**. The panel asks you to **Tap Sketch Face**. Tap inside the rectangle; the field changes to **1 Sketch Face** and a blue preview appears.
+2. In the sidebar, tap **Extrude**. The panel asks you to **Select Sketch Face**. Tap inside the rectangle; the field changes to **1 Sketch Face** and a blue preview appears.
 3. Tap the **Length** value, enter `5`, and tap **Set 5.0 mm**. The preview becomes a 5 mm plate.
 
    ![Extrude with a Length of 5 mm](images/getting-started-07-extrude.png)
@@ -90,7 +90,7 @@ A Hole drills through the solid at points you place in a sketch, so first sketch
 ## 6. Round the corners with Fillet
 
 1. Tap the pencil icon at the top of the sidebar to go back to the **Features** tab, then tap **Fillet**.
-2. The panel asks you to **Tap Edges**. Tap the four short vertical edges at the corners of the plate. The field shows **4 Edges**.
+2. The panel asks you to **Select Edges**. Tap the four short vertical edges at the corners of the plate. The field shows **4 Edges**.
 3. Tap the **Radius** value, enter `5`, and tap **Set 5.0 mm**. The preview shows the rounded corners.
 
    ![Fillet with four corner edges and a 5 mm Radius](images/getting-started-11-fillet.png)

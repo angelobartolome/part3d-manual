@@ -20,7 +20,7 @@ Use Extrude for most first solids: any shape with straight walls whose outline y
 
    ![The Extrude Tool in the sidebar](images/extrude-01-open-tool.png)
 
-2. The **Extrude** panel opens and asks you to **Tap Sketch Face**. Tap inside a closed profile of your sketch. The field changes to **1 Sketch Face** and a preview appears. You can tap more faces from the same sketch to extrude them together.
+2. The **Extrude** panel opens and asks you to **Select Sketch Face**. Tap inside a closed profile of your sketch. The field changes to **1 Sketch Face** and a preview appears. You can tap more faces from the same sketch to extrude them together.
 
    ![The Sketch Face to tap](images/extrude-02-select-face.png)
 
@@ -57,4 +57,4 @@ Use Extrude for most first solids: any shape with straight walls whose outline y
 - **The new solid was joined to one you wanted to keep separate:** turn off **Merge Solids** under **More** and apply again.
 
 > [!NOTE]
-> **On Mac:** click wherever this page says tap. To set **Length**, click the value and type the number; there is no numpad. The panel still says **Tap Sketch Face**, which means click a face.
+> **On Mac:** click wherever this page says tap. To set **Length**, click the value and type the number; there is no numpad.
