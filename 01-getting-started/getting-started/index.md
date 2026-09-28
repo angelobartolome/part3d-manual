@@ -19,7 +19,7 @@ Part3D on iPad is made for Apple Pencil. Draw and pick things on the canvas with
 
 A **Document** is one design, saved as a `.part3d` file. It holds everything you make for that object.
 
-On the Documents screen, tap **New File**. An empty Document named **Untitled** opens in the Editor.
+On the Documents screen, tap **New Document**. An empty Document named **Untitled** opens in the Editor.
 
 ## 2. Sketch a rectangle on the Top plane
 
