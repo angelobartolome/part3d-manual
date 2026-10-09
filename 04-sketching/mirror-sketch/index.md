@@ -3,7 +3,7 @@ title: Mirror (Sketch)
 description: Copy shapes as a mirror image across a line.
 icon: 🪞
 pro: false
-featurebase_id: ""
+featurebase_id: "3497528"
 ---
 
 # Mirror (Sketch)

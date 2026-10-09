@@ -3,7 +3,7 @@ title: Extrude
 description: Add a Feature that turns a closed Sketch Face into a solid.
 icon: 🧱
 pro: false
-featurebase_id: ""
+featurebase_id: "0516194"
 ---
 
 # Extrude

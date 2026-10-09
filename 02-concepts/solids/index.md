@@ -3,7 +3,7 @@ title: Solids
 description: What a solid is and how Features make and change them.
 icon: 🧊
 pro: false
-featurebase_id: ""
+featurebase_id: "6970501"
 ---
 
 # Solids

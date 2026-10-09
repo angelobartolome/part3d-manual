@@ -3,7 +3,7 @@ title: Line
 description: Draw a straight line, or a line from its midpoint, in a Sketch.
 icon: 📏
 pro: false
-featurebase_id: ""
+featurebase_id: "8171344"
 ---
 
 # Line

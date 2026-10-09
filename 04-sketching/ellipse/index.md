@@ -3,7 +3,7 @@ title: Ellipse
 description: Draw an ellipse from its center and axis, or inside a bounding box.
 icon: 🥚
 pro: false
-featurebase_id: ""
+featurebase_id: "4121910"
 ---
 
 # Ellipse

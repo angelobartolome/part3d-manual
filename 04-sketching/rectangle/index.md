@@ -3,7 +3,7 @@ title: Rectangle
 description: Draw a rectangle from a corner or from its center point.
 icon: 🟦
 pro: false
-featurebase_id: ""
+featurebase_id: "1915784"
 ---
 
 # Rectangle

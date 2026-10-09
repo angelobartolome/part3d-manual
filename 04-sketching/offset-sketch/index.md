@@ -3,7 +3,7 @@ title: Offset (Sketch)
 description: Copy a chain of lines and arcs at a set distance from the original.
 icon: 〰️
 pro: false
-featurebase_id: ""
+featurebase_id: "2043057"
 ---
 
 # Offset (Sketch)

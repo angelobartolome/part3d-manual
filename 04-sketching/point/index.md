@@ -3,7 +3,7 @@ title: Point
 description: Place a point in a Sketch.
 icon: 📍
 pro: false
-featurebase_id: ""
+featurebase_id: "9993443"
 ---
 
 # Point

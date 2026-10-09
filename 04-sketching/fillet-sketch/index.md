@@ -3,7 +3,7 @@ title: Fillet (Sketch)
 description: Round the corners where two lines meet in a Sketch.
 icon: 🔵
 pro: false
-featurebase_id: ""
+featurebase_id: "0632745"
 ---
 
 # Fillet (Sketch)

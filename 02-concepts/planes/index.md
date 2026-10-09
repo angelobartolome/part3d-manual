@@ -3,7 +3,7 @@ title: Planes
 description: The Origin Planes every Document has, and the Construction Planes you can add.
 icon: ✈️
 pro: false
-featurebase_id: ""
+featurebase_id: "6502843"
 ---
 
 # Planes

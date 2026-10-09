@@ -3,7 +3,7 @@ title: Features and the History
 description: How a Document is built from a list of Features, and how to edit or delete one.
 icon: 🕘
 pro: false
-featurebase_id: ""
+featurebase_id: "8609029"
 ---
 
 # Features and the History

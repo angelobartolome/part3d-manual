@@ -3,7 +3,7 @@ title: Linear Array
 description: Copy shapes along a line, at a spacing and count you choose.
 icon: 🔢
 pro: false
-featurebase_id: ""
+featurebase_id: "8181682"
 ---
 
 # Linear Array

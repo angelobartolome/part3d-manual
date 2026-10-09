@@ -3,7 +3,7 @@ title: Trim
 description: Remove the part of a line, arc or circle between where other shapes cross it.
 icon: ✂️
 pro: false
-featurebase_id: ""
+featurebase_id: "2885529"
 ---
 
 # Trim

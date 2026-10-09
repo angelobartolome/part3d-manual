@@ -3,7 +3,7 @@ title: Constraints
 description: Every Constraint you can add to a Sketch, what to select for each, and how Auto constraints and the broken-constraints warning work.
 icon: 🔗
 pro: false
-featurebase_id: ""
+featurebase_id: "8175104"
 ---
 
 # Constraints

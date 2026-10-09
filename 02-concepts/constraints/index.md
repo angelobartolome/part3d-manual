@@ -3,7 +3,7 @@ title: Constraints
 description: What a Constraint is and why Sketches use them.
 icon: 📐
 pro: false
-featurebase_id: ""
+featurebase_id: "4466075"
 ---
 
 # Constraints
@@ -22,7 +22,7 @@ A Sketch with only loose lines is like a drawing on paper: if you move one corne
 
 ## Where they come from
 
-Part3D adds some Constraints for you while you draw, such as a rectangle's horizontal and vertical sides. You add the rest by selecting part of the Sketch, tapping **⋯** and picking a Constraint, such as **Line Length** to set a size. The tutorial does this in [Getting Started](../../01-getting-started/getting-started/index.md).
+Part3D adds some Constraints for you while you draw, such as a rectangle's horizontal and vertical sides. You add the rest by selecting part of the Sketch, tapping **⋯** and picking a Constraint, such as **Distance** to set a size. The tutorial does this in [Getting Started](../../01-getting-started/getting-started/index.md).
 
 ## Too many or too few
 
