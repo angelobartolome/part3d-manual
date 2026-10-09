@@ -2,11 +2,14 @@
 title: Mirror (Sketch)
 description: Copy shapes as a mirror image across a line.
 icon: 🪞
-pro: false
+pro: true
 featurebase_id: "3497528"
 ---
 
 # Mirror (Sketch)
+
+> [!IMPORTANT]
+> **Pro:** Mirror (Sketch) is part of Part3D Pro.
 
 Mirror (Sketch) copies shapes in a [Sketch](../../02-concepts/sketches/index.md) as a mirror image across a line. The mirror image stays tied to the original.
 

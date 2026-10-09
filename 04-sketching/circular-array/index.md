@@ -2,11 +2,14 @@
 title: Circular Array
 description: Copy shapes around a center point.
 icon: 🔄
-pro: false
+pro: true
 featurebase_id: "3969265"
 ---
 
 # Circular Array
+
+> [!IMPORTANT]
+> **Pro:** Circular Array is part of Part3D Pro.
 
 Circular Array makes copies of shapes in a [Sketch](../../02-concepts/sketches/index.md) around a center point, like the bolts on a flange. The copies stay tied to the original.
 

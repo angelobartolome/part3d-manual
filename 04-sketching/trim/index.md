@@ -2,11 +2,14 @@
 title: Trim
 description: Remove the part of a line, arc or circle between where other shapes cross it.
 icon: ✂️
-pro: false
+pro: true
 featurebase_id: "2885529"
 ---
 
 # Trim
+
+> [!IMPORTANT]
+> **Pro:** Trim is part of Part3D Pro.
 
 Trim removes a piece of a line, arc or circle in a [Sketch](../../02-concepts/sketches/index.md): the part between the points where other shapes cross it, or between a crossing and the end.
 

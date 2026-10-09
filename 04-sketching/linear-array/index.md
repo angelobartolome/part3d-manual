@@ -2,11 +2,14 @@
 title: Linear Array
 description: Copy shapes along a line, at a spacing and count you choose.
 icon: 🔢
-pro: false
+pro: true
 featurebase_id: "8181682"
 ---
 
 # Linear Array
+
+> [!IMPORTANT]
+> **Pro:** Linear Array is part of Part3D Pro.
 
 Linear Array makes copies of shapes in a [Sketch](../../02-concepts/sketches/index.md), spaced evenly along a line. The copies stay tied to the original: change it, and every copy follows.
 

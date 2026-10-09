@@ -2,11 +2,14 @@
 title: Fillet (Sketch)
 description: Round the corners where two lines meet in a Sketch.
 icon: 🔵
-pro: false
+pro: true
 featurebase_id: "0632745"
 ---
 
 # Fillet (Sketch)
+
+> [!IMPORTANT]
+> **Pro:** Fillet (Sketch) is part of Part3D Pro.
 
 Fillet (Sketch) rounds a corner where two lines meet in a [Sketch](../../02-concepts/sketches/index.md), replacing the sharp point with an arc.
 
