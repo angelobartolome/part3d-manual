@@ -29,7 +29,7 @@ A **Sketch** is a flat 2D drawing on a plane. Solids start as sketches: you draw
 
    ![Create Sketch in the sidebar](images/getting-started-01-create-sketch.png)
 
-2. The first time, a **Creating a Sketch** tip appears. Tap **Got it**. The three Origin Planes appear. Tap the one labelled **Top**, the flat one. The view turns to look straight down on it, and the **Editing Sketch** panel opens.
+2. The first time, a **Creating a Sketch** tip appears. Tap **Got it**. The three Origin Planes appear. Tap the one labelled **Top**, the flat one. The view turns to look straight down on it, and the sketch bar appears at the top with **Discard** and **Finish Sketch**.
 
    ![The Top plane](images/getting-started-02-top-plane.png)
 
@@ -37,21 +37,21 @@ A **Sketch** is a flat 2D drawing on a plane. Solids start as sketches: you draw
 
    ![A rectangle drawn on the Top plane](images/getting-started-03-draw-rectangle.png)
 
-## 3. Set its size with Line Length
+## 3. Set its size with Distance
 
 A **Constraint** is a rule the sketch has to follow, like "this line is horizontal" or "this line is 60 mm long". The small badges on the rectangle are Constraints Part3D added for you: its sides stay horizontal and vertical. When you change a size, Part3D moves the shape to keep every rule true.
 
-1. Tap the bottom edge of the rectangle. It turns blue and a **⋯** button appears next to it. Tap **⋯**, then **Line Length**.
+1. Tap the bottom edge of the rectangle. It turns blue and a **⋯** button appears next to it. Tap **⋯**, then **Distance**.
 
-   ![Line Length in the menu of the selected edge](images/getting-started-04-line-length.png)
+   ![Distance in the menu of the selected edge](images/getting-started-04-distance.png)
 
 2. A dimension shows the edge's current length. Tap the number to open the numpad, enter `60`, and tap **Set 60.0 mm**. The rectangle stretches to 60 mm.
 
    ![Setting the length to 60 mm](images/getting-started-05-set-length.png)
 
-3. Do the same for the right edge: tap it, tap **⋯**, tap **Line Length**, tap its number, enter `40`, and tap **Set 40.0 mm**.
+3. Do the same for the right edge: tap it, tap **⋯**, tap **Distance**, tap its number, enter `40`, and tap **Set 40.0 mm**.
 
-4. The rectangle is now exactly 60 × 40 mm. Tap **Apply** to finish the sketch.
+4. The rectangle is now exactly 60 × 40 mm. Tap **Finish Sketch** to finish the sketch.
 
    ![The finished sketch, ready to apply](images/getting-started-06-apply-sketch.png)
 
@@ -75,7 +75,7 @@ A Hole drills through the solid at points you place in a sketch, so first sketch
 
    ![The top face of the plate](images/getting-started-08-top-face.png)
 
-2. The view turns to look down on the face. In the sidebar, tap **Point**, then tap two spots on the plate, one on each side of the middle, about 18 mm from it. Tap **Point** again to put the Tool away, then tap **Apply**.
+2. The view turns to look down on the face. In the sidebar, tap **Point**, then tap two spots on the plate, one on each side of the middle, about 18 mm from it. Tap **Point** again to put the Tool away, then tap **Finish Sketch**.
 
    ![Two points on the top face](images/getting-started-09-hole-points.png)
 
@@ -101,7 +101,7 @@ A Hole drills through the solid at points you place in a sketch, so first sketch
 
 The **History** is the list of your Features, in the order you added them. Part3D builds the solid by replaying that list, so when you change an early Feature, every Feature after it is rebuilt on top of the change. This is what "parametric" means: your model is a recipe, not a lump of clay.
 
-1. Tap the layers icon in the top-right corner, then the History tab (the timer icon). It lists **Extrude**, **Hole** and **Fillet**.
+1. Tap the layers icon in the top-right corner, then the History tab (the timer icon). It lists your sketches and Features: **Extrude**, **Hole** and **Fillet**.
 2. Tap **Extrude**, then tap **Edit**.
 
    ![Edit on the selected Extrude Feature](images/getting-started-12-history-edit.png)
